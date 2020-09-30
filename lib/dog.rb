@@ -2,7 +2,7 @@ class Dog
 
 #Setter
   def name=(name)
-      @this_dogs_name = name
+      @name = name
   end
 
 #Getter
