@@ -1,9 +1,12 @@
 class Dog
-  def name
 
+#Setter
+  def name=(dog_name)
+      @this_dogs_name = dog_name
   end
 
-  def name=
+#Getter
+  def name
 
   end
 end
